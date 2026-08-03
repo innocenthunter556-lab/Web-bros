@@ -1,4 +1,5 @@
-{  "name": "webros-landing",
+{
+  "name": "webros-landing",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,19 +24,3 @@
     "@tailwindcss/postcss": "^4.0.0"
   }
 }
-{
-  "name": "cherry",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "16.2.12",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
-  }
-}
-
